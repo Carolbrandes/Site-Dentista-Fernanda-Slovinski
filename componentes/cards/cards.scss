@@ -31,7 +31,7 @@
                         height: 240px;
                 }
 
-                @media screen and (max-width: 800px) {
+                @media screen and (max-width: 1030px) {
                         height: 330px;
                         text-align: left;
                 }
@@ -54,7 +54,7 @@
                                 height: 270px;
                         }
 
-                        @media screen and (max-width: 800px) {
+                        @media screen and (max-width: 1030px) {
                                 height: 360px;
                         }
 
@@ -78,6 +78,7 @@
 
                 img{
                         width: 8%;
+                        height: 20px;
                 }
         }
 }
