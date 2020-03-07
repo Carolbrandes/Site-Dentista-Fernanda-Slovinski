@@ -57,6 +57,25 @@
                 </div>
         </section>
 
+        <section class="cards">
+                <div class="context cards__container">
+                        <div class="cards__single-card">
+                                <h2>Prótese e Reabilitação Oral</h2>
+                                <p>Devolver saúde, estética e função aos pacientes através de próteses sobre dente, implantes, próteses sobre implantes e tratamentos reabilitadores que visam recuperar a capacidade de mastigação e convívio social. </p>
+                                <img src="imagens/icone_dente.png" alt="icone dente">
+                        </div>
+                        <div class="cards__single-card">
+                                <h2>Estética Dental </h2>
+                                <p>Melhorar ou devolver a estética do sorriso a partir de tratamentos como clareamento dental, lentes de contato, facetas e coroas de cerâmica. Atualmente a odontologia vive o seu melhor momento na estética, com materiais e técnicas que trazem naturalidade.</p>
+                        </div>
+                        <div class="cards__single-card">
+                                <h2>Periodontia </h2>
+                                <p>Cuidar da saúde da gengiva e do periodonto (tecidos que suportam os dentes) é essencial para a saúde bucal e sistêmica. Mantenha a saúde em dia com as consultas de profilaxia periódicas.</p>
+                                <img src="imagens/icone_dente.png" alt="icone dente">
+                        </div>
+                </div>
+        </section>
+
 
         <script src="js/menu.js"></script>
 
