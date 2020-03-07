@@ -30,6 +30,34 @@
         </header>
 
 
+        <section class="gallery">
+                <div class="gallery__container">
+                        <div class="gallery__img"></div>
+                        <div class="gallery__img"></div>
+                </div>
+                <div class="gallery__container">
+                        <div class="gallery__img"></div>
+                        <div class="gallery__img"></div>
+                </div>
+                <div class="gallery__container">
+                        <div class="gallery__img"></div>
+                        <div class="gallery__img"></div>
+                </div>
+                <div class="gallery__container">
+                        <div class="gallery__img"></div>
+                        <div class="gallery__img"></div>
+                </div>
+                <div class="gallery__container">
+                        <div class="gallery__img"></div>
+                        <div class="gallery__img"></div>
+                </div>
+                <div class="gallery__container">
+                        <div class="gallery__img"></div>
+                        <div class="gallery__img"></div>
+                </div>
+        </section>
+
+
         <script src="js/menu.js"></script>
 
 </body>

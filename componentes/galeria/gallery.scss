@@ -1,0 +1,18 @@
+.gallery{
+        width: 100vw;
+        height: 300px;
+        display: flex;
+        
+
+        &__container{
+                width: 20%;
+                height: 300px;
+                background-color: gray;
+        }
+
+        &__img{
+                border: 4px solid #fff;
+                height: calc(300px / 2);
+        }
+}
+

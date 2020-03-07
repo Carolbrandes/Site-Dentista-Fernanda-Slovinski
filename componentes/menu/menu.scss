@@ -1,9 +1,13 @@
 .main-header{
+        margin-bottom: 100px;
+    
+
        &__container{
                display: flex;
                justify-content: space-between;
                align-items: center;
-               padding: 2% 0;
+               position: fixed;
+               top: 0;
        }
 
         &__menu{
