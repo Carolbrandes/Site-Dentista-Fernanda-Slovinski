@@ -76,6 +76,40 @@
                 </div>
         </section>
 
+        <section class="profile">
+                <div class="context profile__container">
+                        <div class="profile__img"></div>
+                        <div class="profile__text">
+                                <h2 class="title01">DRA. FERNANDA VARELLA SLOVINSKI</h2>
+                                <p>Cirurgiã-dentista formada pela Universidade do Vale do Itajaí- UNIVALI.</p>
+
+                                <ul>
+                                        <li> - Especialista em Prótese Dentária pela Universidade de São Paulo- USP.</li>
+                                        <li> - Especialista em Periodontia pela Universidade Federal de Santa Catarina-UFSC.</li>
+                                        <li> - Atualização em Estética Avançada.</li>
+                                        <li> - Curso de Laminados cerâmicos.</li>
+                                        <li> - Curso de Fotografia Odontológica.</li>
+                                        <li> - Curso de atualização em Prótese sobre Implante.</li>
+                                        <li> - Curso de toxina botulínica e preenchimento aplicados para Odontologia.</li>
+                                </ul>
+
+                                <p>
+                                        Dentista que tem como sua paixão maior a Reabilitação protética e estética, buscando constantemente cursos e técnicas modernas, oferecendo tratamentos atuais e refinados.
+
+                                </p>
+                                <p>
+                                        Nossa clínica está localizada no Centro Médico Trompowsky Corporate, oferecendo o que há de melhor na odontologia moderna. Trabalhamos com Escaneamento Digital, médico anestesista para oferecer maior conforto para os pacientes, além de materiais e técnicas de melhor qualidade. Tudo para o maior conforto e melhores resultados possíveis para os nossos pacientes.
+                                </p>
+
+                                <p>
+                                        Dra. Fernanda compõe o corpo clínico da Bianchini Odontologia, clínica exclusiva em Florianópolis que leva o nome do proprietário professor Dr. Marco Aurélio Bianchini - periodontista e implantodontista de expressão nacional.
+                                </p>
+
+
+                        </div>
+                </div>
+        </section>
+
 
         <script src="js/menu.js"></script>
 
