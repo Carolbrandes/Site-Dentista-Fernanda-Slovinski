@@ -110,6 +110,20 @@
                 </div>
         </section>
 
+        <section class="videos">
+                <div class="context videos__container">
+                        <div class="videos__video">
+                                <iframe src="https://www.youtube.com/embed/8pbQpLtONgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="videos__video">
+                                <iframe src="https://www.youtube.com/embed/8pbQpLtONgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                        <div class="videos__video">
+                                <iframe src="https://www.youtube.com/embed/8pbQpLtONgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        </div>
+                </div>
+        </section>
+
 
         <script src="js/menu.js"></script>
 

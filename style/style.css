@@ -9,6 +9,9 @@
   font-family: 'Montserrat', sans-serif;
   color: #b4b4b4; }
 
+body {
+  overflow-x: hidden; }
+
 .context {
   width: 90%;
   margin: 0 auto;
@@ -134,11 +137,12 @@ p, ul {
     max-height: 20px; }
 
 .profile > .context {
-  max-width: 800px;
+  max-width: 900px;
   padding: 0; }
 .profile__container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   height: 750px; }
   @media screen and (max-width: 700px) {
     .profile__container {
@@ -147,7 +151,7 @@ p, ul {
       height: auto; } }
 .profile__img {
   width: 35%;
-  height: 100%;
+  height: 50%;
   background-image: url(../imagens/img_perfil.png);
   background-size: 100% 100%; }
   @media screen and (max-width: 700px) {
@@ -162,5 +166,29 @@ p, ul {
   @media screen and (max-width: 700px) {
     .profile__text {
       width: 100%; } }
+
+.videos {
+  padding: 20px 0; }
+  .videos__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+    @media screen and (max-width: 800px) {
+      .videos__container {
+        flex-direction: column; } }
+  .videos__video {
+    width: 30%;
+    height: 200px; }
+    @media screen and (max-width: 800px) {
+      .videos__video {
+        width: 70%;
+        height: 300px;
+        margin-bottom: 25px; } }
+    @media screen and (max-width: 700px) {
+      .videos__video {
+        width: 100%; } }
+    .videos__video iframe {
+      width: 100%;
+      height: 100%; }
 
 /*# sourceMappingURL=style.css.map */
