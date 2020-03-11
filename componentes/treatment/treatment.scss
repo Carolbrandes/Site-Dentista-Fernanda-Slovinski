@@ -1,0 +1,35 @@
+.treatment{
+        background-color: #cccaca;
+        padding: 30px 0 10px;
+
+        h2{
+                text-align: center;
+        }
+
+        &__container{
+                display: flex;
+                justify-content: space-between;
+                flex-wrap: wrap;
+                margin: 30px 0;
+        }
+
+        &__single{
+                width: 30%;
+                margin-bottom: 20px;
+
+                &:nth-of-type(2){
+                        order: 6;
+                }
+
+                h3{
+                        color: $cinza02;
+                        text-align: center;
+                        margin-bottom: 10px;
+                }
+
+                p{
+                        color: #1f1f1f;
+                        text-align: justify;
+                }
+        }
+}
