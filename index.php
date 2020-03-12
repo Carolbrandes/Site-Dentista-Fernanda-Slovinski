@@ -131,40 +131,40 @@
                         <h2 class="title01">Tratamentos</h2>
                         <div class="treatment__container">
                                 <article class="treatment__single">
-                                        <h3>Facetas ou lentes de contato dental</h3>
+                                        <h3 class="title02">Facetas ou lentes de contato dental</h3>
                                         <p>Geralmente são recomendas por motivos estéticos e envolvem apenas a face frontal dos dentes, estão cada vez mais finas e necessitam pouco desgaste. São utilizadas nos casos de dentes manchados ou restaurados, quando o paciente quer melhorar a estética.</p>
                                 </article>
                                 <article class="treatment__single">
-                                        <h3>Restaurações estéticas</h3>
+                                        <h3 class="title02">Restaurações estéticas</h3>
                                         <p>Troque suas restaurações antigas, escuras e manchadas por materiais estéticos e sofisticados.</p>
                                 </article>
                                 <article class="treatment__single">
-                                        <h3>Clareamento Dental</h3>
+                                        <h3 class="title02">Clareamento Dental</h3>
                                         <p>Qualquer pessoa pode ter seus dentes naturais clareados. Em alguns casos, quando o paciente tem muitas restaurações e/ou próteses poderá ser necessário associar outros tratamentos para que o resultado estético seja satisfatório.</p>
                                 </article>
                                 <article class="treatment__single">
-                                        <h3>Halitose (mau hálito)</h3>
+                                        <h3 class="title02">Halitose (mau hálito)</h3>
                                         <p>É uma doença que acomete mais de 40% da população, mas a maioria das pessoas não sentem a sua halitose. Quase 90% são de origem bucal, mas também pode ser um sinal de alguma desordem ou doença sistêmica. Existe SIM tratamento e nós podemos ajudar!</p>
                                 </article>
                                 <article class="treatment__single">
-                                        <h3>Prótese Total</h3>
+                                        <h3 class="title02">Prótese Total</h3>
                                         <p>São utilizadas quando existe ausência total dos dentes, neste caso sempre indicamos a colocação de implantes para confecção de prótese do tipo Protocolo sobre Implantes (veja o video acima).</p>
                                 </article>
                                 <article class="treatment__single">
-                                        <h3>Próteses sobre Implantes</h3>
+                                        <h3 class="title02">Próteses sobre Implantes</h3>
                                         <p>As próteses fixadas sobre os implantes tem como maior vantagem o fato de não se soltarem durante a mastigação propiciando maior conforto, segurança e eficácia além de maior retenção e estética em relação às próteses móveis.</p>
                                 </article>
                                 <article class="treatment__single">
-                                        <h3>Prótese Fixa</h3>
+                                        <h3 class="title02">Prótese Fixa</h3>
                                         <p>É o método mais utilizado para se devolver o conforto e estética para os pacientes que necessitam substituir um ou mais dentes. Atualmente, em sua maioria, são feitas em porcelana pura.</p>
                                 </article>
                                 <article class="treatment__single">
-                                        <h3>Implantes Osseointegrados</h3>
+                                        <h3 class="title02">Implantes Osseointegrados</h3>
                                         <p>São feitos de Titânio e colocados por meio de cirurgia para substituição de dentes faltantes.
                                                 Com a comodidade que a nossa clínica oferece, o paciente poderá optar pelo uso de anestésico local ou sedação intravenosa aplicada pro médico anestesiologista.</p>
                                 </article>
                                 <article class="treatment__single">
-                                        <h3>Periodontia</h3>
+                                        <h3 class="title02">Periodontia</h3>
                                         <p>Doença periodontal é o comprometimento dos tecidos que envolvem os dentes e que leva a inflamação do tecido gengival e/ou reabsorção do osso que está ao redor das raízes dos dentes. A consulta regular ao periodontista é fundamental para a saúde bucal. </p>
                                 </article>
                         </div>
