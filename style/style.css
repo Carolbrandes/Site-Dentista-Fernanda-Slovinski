@@ -239,12 +239,16 @@ p, ul {
     align-items: center; }
     .depositions__container quote {
       display: block;
-      margin: 20px 0; }
+      margin: 20px 0;
+      font-style: italic; }
   .depositions__author {
     width: 40%;
     display: flex;
     align-items: center;
     justify-content: center; }
+    @media screen and (max-width: 700px) {
+      .depositions__author {
+        width: 80%; } }
     .depositions__author span {
       display: inline-block;
       margin-left: 2%;
