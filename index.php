@@ -171,6 +171,27 @@
                 </div>
         </section>
 
+        <section class="depositions">
+                <div class="context">
+                        <h2 class="title01">Depoimentos</h2>
+                        <div class="depositions__container">
+                                <quote>“Estrutura e atendimento excepcionais. Adorei o atendimento da Dra. Fernanda, excelente profissional.”</quote>
+
+                                <div class="depositions__author">
+                                        <img src="imagens/depoimento1.png" alt="">
+                                        <span>Maria Augusta Santos</span>
+                                </div>
+
+                                <div class="depositions__controls">
+                                        <div class="circle circle-active"></div>
+                                        <div class="circle"></div>
+                                        <div class="circle"></div>
+                                </div>
+                        </div>
+
+                </div>
+        </section>
+
 
         <script src="js/menu.js"></script>
 
