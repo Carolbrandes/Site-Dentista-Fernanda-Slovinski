@@ -193,6 +193,40 @@
         </section>
 
 
+        <section class="instagram">
+                <div class="context">
+                        <a href="" target="_blank">
+                                <img src="imagens\inst.png" alt="">
+                        </a>
+                        <p>Acesse o Instagram para ver mais fotos</p>
+                        <p>@dra.fernanda_slovinski</p>
+                </div>
+        </section>
+
+        <section class="gallery-2">
+                <div class="gallery-2__img  gallery-2__img-1"></div>
+                <div class="gallery-2__img  gallery-2__img-2"></div>
+                <div class="gallery-2__img  gallery-2__img-3"></div>
+                <div class="gallery-2__img  gallery-2__img-4"></div>
+                <div class="gallery-2__img  gallery-2__img-5"></div>
+                <div class="gallery-2__img  gallery-2__img-6"></div>
+                <div class="gallery-2__img  gallery-2__img-7"></div>
+                <div class="gallery-2__img  gallery-2__img-8"></div>
+                <div class="gallery-2__img  gallery-2__img-9"></div>
+        </section>
+
+        <section class="facebook">
+                <div class="context">
+                        <a href="" target="_blank">
+                                <img src="imagens\fb.png" alt="">
+                        </a>
+                        <p>Acesse o facebook</p>
+                        <p>fb.com/FernandaVarellaSlovinski</p>
+                </div>
+        </section>
+
+
+
         <script src="js/menu.js"></script>
 
 </body>

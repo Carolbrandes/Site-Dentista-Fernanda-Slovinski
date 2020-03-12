@@ -1,0 +1,31 @@
+.instagram{
+        background-color: $azul04;
+        padding: 20px 0;
+        text-align: center;
+
+        p{
+                color: #fff;
+
+                &:first-of-type{
+                        padding-top: 15px;
+                }
+        }
+
+}
+
+
+.facebook{
+
+        background-color: $azul01;
+        padding: 20px 0;
+        text-align: center;
+
+        p{
+                color: #fff;
+
+                &:first-of-type{
+                        padding-top: 15px;
+                }
+        }
+
+}

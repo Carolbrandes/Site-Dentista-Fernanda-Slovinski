@@ -16,3 +16,79 @@
         }
 }
 
+
+/* galeria 2 */
+
+.gallery-2{
+        display: flex;
+
+        &__img{
+                width: calc(100% / 9);
+                padding-top: calc(100% / 9);
+                border: 1px solid;
+
+                @media screen and (max-width: 700px) {
+                        width: calc(100% / 3);
+                        padding-top: calc(100% / 3);
+
+                      &:nth-of-type(1n + 4){
+                              display: none;
+                      }
+                }
+        }
+
+        &__img-1{
+                background-image: url("../imagens/galeria-2-img-1.jpg");
+                background-size: cover;
+                background-position: center;
+        }
+
+        &__img-2{
+                background-image: url("../imagens/galeria-2-img-2.jpg");
+                background-size: cover;
+                background-position: center;
+        }
+
+        &__img-3{
+                background-image: url("../imagens/galeria-2-img-3.jpg");
+                background-size: cover;
+                background-position: center;
+        }
+
+        &__img-4{
+                background-image: url("../imagens/galeria-2-img-4.jpg");
+                background-size: cover;
+                background-position: center;
+        }
+
+        &__img-5{
+                background-image: url("../imagens/galeria-2-img-5.jpg");
+                background-size: cover;
+                background-position: center;
+        }
+
+        &__img-6{
+                background-image: url("../imagens/galeria-2-img-6.jpg");
+                background-size: cover;
+                background-position: center;
+        }
+
+        &__img-7{
+                background-image: url("../imagens/galeria-2-img-7.jpg");
+                background-size: cover;
+                background-position: center;
+        }
+
+        &__img-8{
+                background-image: url("../imagens/galeria-2-img-8.jpg");
+                background-size: cover;
+                background-position: center;
+        }
+
+        &__img-9{
+                background-image: url("../imagens/galeria-2-img-9.jpg");
+                background-size: cover;
+                background-position: center;
+        }
+}
+
