@@ -338,4 +338,58 @@ p, ul {
     .facebook p:first-of-type {
       padding-top: 15px; }
 
+.contact input[type="text"], .contact input[type="email"] {
+  display: inline-block;
+  height: 35px;
+  line-height: 35px;
+  padding-left: 2%; }
+
+.contact {
+  padding: 40px 0; }
+  .contact form {
+    width: 60%;
+    margin: 0 auto; }
+  .contact h2 {
+    text-align: center; }
+  .contact div {
+    width: 100%;
+    margin-bottom: 10px; }
+  .contact textarea {
+    display: inline-block;
+    height: 121px;
+    padding: 2%;
+    resize: none; }
+  .contact .w-100 input[type="text"], .contact .w-100 textarea {
+    width: 100%; }
+  .contact .row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%; }
+    @media screen and (max-width: 700px) {
+      .contact .row {
+        flex-wrap: wrap;
+        justify-content: center; } }
+  .contact .w-50 {
+    width: 48%; }
+    @media screen and (max-width: 700px) {
+      .contact .w-50 {
+        width: 100%; } }
+    .contact .w-50 input[type="text"], .contact .w-50 input[type="email"] {
+      width: 100%; }
+  .contact .botao-01 {
+    border: none;
+    background-color: #688293;
+    padding: 2%;
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    display: inline-block;
+    width: 15%;
+    min-width: fit-content;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%); }
+
 /*# sourceMappingURL=style.css.map */

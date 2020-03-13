@@ -225,6 +225,35 @@
                 </div>
         </section>
 
+        <section class="contact">
+                <div class="context">
+                        <form action="" method="POST">
+                                <h2 class="title01">Contato</h2>
+
+                                <div class="w-100">
+                                        <input type="text" name="nome" placeholder="Nome*" required>
+                                </div>
+
+                                <div class="row">
+                                        <div class="w-50">
+                                                <input type="email" name="email" placeholder="E-mail*" required>
+                                        </div>
+
+                                        <div class="w-50">
+                                                <input type="text" name="telefone" placeholder="Telefone*" required>
+                                        </div>
+                                </div>
+
+                                <div class="w-100">
+                                        <textarea name="mensagem" placeholder="Mensagem*" required></textarea>
+                                </div>
+
+                                <button class="botao-01" type="submit" name="acao">Enviar</button>
+
+                        </form>
+                </div>
+        </section>
+
 
 
         <script src="js/menu.js"></script>

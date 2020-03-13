@@ -1,0 +1,87 @@
+%campoformulario{
+        display: inline-block;
+        height: 35px;
+        line-height: 35px;
+        padding-left: 2%;
+}
+
+.contact{
+        padding: 40px 0;
+
+        form{
+                width: 60%;
+                margin: 0 auto;
+        }
+
+        h2{
+                text-align: center;
+        }
+
+        div{
+                width: 100%;
+                margin-bottom: 10px;
+        }
+
+      
+        input[type="text"], input[type="email"]{
+                @extend %campoformulario;
+        }
+
+        textarea{
+                display: inline-block;
+                height: 121px;
+                padding: 2%;
+                resize: none;
+        }
+
+        .w-100{
+                input[type="text"], textarea{
+                        width: 100%;
+                }
+        }
+
+        .row{
+                display: flex;
+                justify-content: space-between;
+                width: 100%;
+
+                @media screen and (max-width: 700px) {
+                        flex-wrap: wrap;
+                        justify-content: center;
+                }
+
+        }
+
+
+        .w-50{
+                width: 48%;
+
+                @media screen and (max-width: 700px) {
+                        width: 100%;
+                }
+
+                input[type="text"], input[type="email"]{
+                        width: 100%;
+                      
+                }
+        }
+
+        .botao-01{
+                border: none;
+                background-color: $azul02;
+                padding: 2%;
+                text-align: center;
+                font-size: 18px;
+                color: #fff;
+                display: inline-block;
+                width: 15%;
+                min-width: fit-content;
+                position: relative;
+                left: 50%;
+                transform: translateX(-50%);
+                -webkit-transform: translateX(-50%);
+                -ms-transform: translateX(-50%);
+        }
+
+
+}
