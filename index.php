@@ -31,30 +31,30 @@
 
 
         <section class="gallery">
-                <div class="gallery__container">
-                        <div class="gallery__img"></div>
-                        <div class="gallery__img"></div>
-                </div>
-                <div class="gallery__container">
-                        <div class="gallery__img"></div>
-                        <div class="gallery__img"></div>
-                </div>
-                <div class="gallery__container">
-                        <div class="gallery__img"></div>
-                        <div class="gallery__img"></div>
-                </div>
-                <div class="gallery__container">
-                        <div class="gallery__img"></div>
-                        <div class="gallery__img"></div>
-                </div>
-                <div class="gallery__container">
-                        <div class="gallery__img"></div>
-                        <div class="gallery__img"></div>
-                </div>
-                <div class="gallery__container">
-                        <div class="gallery__img"></div>
-                        <div class="gallery__img"></div>
-                </div>
+
+                <div class="gallery__img gallery__img01"></div>
+                <div class="gallery__img gallery__img02"></div>
+
+
+                <div class="gallery__img gallery__img03"></div>
+                <div class="gallery__img gallery__img04"></div>
+
+
+                <div class="gallery__img gallery__img05"></div>
+                <div class="gallery__img gallery__img06"></div>
+
+
+                <div class="gallery__img gallery__img07"></div>
+                <div class="gallery__img gallery__img08"></div>
+
+
+                <div class="gallery__img gallery__img09"></div>
+                <div class="gallery__img gallery__img10"></div>
+
+
+                <div class="gallery__img gallery__img11"></div>
+                <div class="gallery__img gallery__img12"></div>
+
         </section>
 
         <section class="cards">
@@ -253,6 +253,31 @@
                         </form>
                 </div>
         </section>
+
+
+        <footer class="footer">
+                <div class="context">
+                        <section class="footer-contact">
+                                <div class="footer-contact__col">
+                                        <h2>Telefone</h2>
+                                        <p>Consultas: <u>(48)3223-3083</u></p>
+                                        <p>WhatsApp: <u>(48)99961-5530</u></p>
+                                </div>
+
+                                <div class="footer-contact__col">
+                                        <h2>Horários</h2>
+                                        <p>Segunda a sexta:</p>
+                                        <p>08:00 - 12:00 - 14:00 - 18:00</p>
+                                </div>
+
+                                <div class="footer-contact__col">
+                                        <h2>Endereço</h2>
+                                        <p>Av. Trompowsky, 291. Torre 1 sala 103</p>
+                                        <p>Cep 88015-300 - Florianópolis, SC.</p>
+                                </div>
+                        </section>
+                </div>
+        </footer>
 
 
 

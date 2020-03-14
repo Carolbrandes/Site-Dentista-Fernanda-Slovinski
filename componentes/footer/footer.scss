@@ -1,0 +1,47 @@
+.footer{
+        background-color: $azul02;
+        padding: 40px 0;
+
+     
+        .footer-contact{
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+
+                @media screen and (max-width: 800px) {
+                        flex-direction: column;
+                        align-items: center;
+                        justify-content: center;
+                }
+
+                &__col{
+                        @media screen and (max-width: 800px) {
+                                width: 40%;
+                               margin-bottom: 30px;
+                        }
+
+                        @media screen and (max-width: 700px) {
+                                width: 60%;
+        
+                        }
+
+
+
+                        h2{
+                                color: #fff;
+                                margin-bottom: 20px;
+                        }
+
+                        p{
+                                color: #fff;
+
+                                u{
+                                        color: #fff;
+                                }
+                        }
+                }
+        }
+
+
+}
+
