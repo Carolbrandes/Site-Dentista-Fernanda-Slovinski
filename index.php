@@ -76,7 +76,7 @@
                 </div>
         </section>
 
-        <section class="profile">
+        <section class="profile" id="quemsou">
                 <div class="context profile__container">
                         <div class="profile__img"></div>
                         <div class="profile__text">
@@ -125,7 +125,7 @@
         </section>
 
 
-        <section class="treatment">
+        <section class="treatment" id="tratamentos">
 
                 <div class="context">
                         <h2 class="title01">Tratamentos</h2>
@@ -171,7 +171,7 @@
                 </div>
         </section>
 
-        <section class="depositions">
+        <section class="depositions" id="depoimentos">
                 <div class="context">
                         <h2 class="title01">Depoimentos</h2>
                         <div class="depositions__container">
@@ -225,7 +225,7 @@
                 </div>
         </section>
 
-        <section class="contact">
+        <section class="contact" id="contato">
                 <div class="context">
                         <form action="" method="POST">
                                 <h2 class="title01">Contato</h2>
@@ -282,6 +282,7 @@
 
 
         <script src="js/menu.js"></script>
+        <script src="js/menu-scroll.js"></script>
 
 </body>
 
